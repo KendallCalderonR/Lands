@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{83BEA9F7-D212-45DF-BDE0-D6FC0F7FA9C9}</ProjectGuid>
+    <ProjectGuid>{7014413A-45FF-474C-9AE6-9CFFC85072FA}</ProjectGuid>
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <TemplateGuid>{c9e5eea5-ca05-42a1-839b-61506e0a37df}</TemplateGuid>
     <OutputType>Library</OutputType>
@@ -93,7 +93,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Lands\Lands.csproj">
-      <Project>{D3F9D469-A0AC-4C15-BDF1-9A3C0ECD8A20}</Project>
+      <Project>{8C77CC0D-5B44-4011-B634-4EBF48940D35}</Project>
       <Name>Lands</Name>
     </ProjectReference>
   </ItemGroup>
